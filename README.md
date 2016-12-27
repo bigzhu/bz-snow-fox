@@ -1,6 +1,6 @@
-# bz-base
+# bz-snow-fox
 
-> bz-base
+> bz-snow-fox
 
 ## Build Setup
 
